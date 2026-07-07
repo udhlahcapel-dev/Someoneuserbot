@@ -366,5 +366,11 @@
     "history": [
       "cpanelLeo_bot"
     ]
+  },
+  "8356505161": {
+    "name": "Support CoinMarketCap Service",
+    "history": [
+      "CoinMarketCap_Official_Service9"
+    ]
   }
 }
